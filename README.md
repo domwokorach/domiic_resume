@@ -18,13 +18,13 @@ Follow these steps to get started with Live Resume Preview:
 1. **Clone the repository**
 
 ```sh
-git clone https://github.com/jatindotdev/live-resume-preview.git
+git clone https://github.com/domwokorach/domiic_resume.git
 ```
 
 2. **Navigate to the project directory**
 
 ```sh
-cd live-resume-preview
+cd domiic_resume
 ```
 
 3. **Install dependencies**
@@ -51,9 +51,8 @@ We welcome contributions! If you have ideas for improvements or new features, fe
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE.md).
 
 ## Contact
 
-For any inquiries or feedback, please reach out to [Jatin](heyjatinn@gmail.com).
-# domiic_resume
+For any inquiries or feedback, please reach out to [Dominic Olanya](mailto:dominicolanya@gmail.com).

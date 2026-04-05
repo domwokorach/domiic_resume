@@ -1,5 +1,5 @@
 {
-  "name": "cv",
+  "name": "cv_resume_dominic",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
@@ -30,5 +30,9 @@
     "@biomejs/biome": "^1.8.3",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0"
-  }
+  },
+  "description": "The project aims to provide a live preview of resumes using a modern PDF viewer, allowing you to showcase your resume with a shareable link instead of dealing with cumbersome PDF files.",
+  "main": "index.js",
+  "author": "Dominic Wokorach-O",
+  "license": "ISC"
 }
