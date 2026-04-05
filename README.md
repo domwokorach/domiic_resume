@@ -3,8 +3,7 @@
 The project aims to provide a live preview of resumes using a modern PDF viewer, allowing you to showcase your resume with a shareable link instead of dealing with cumbersome PDF files.
 
 ## Preview
-![cover](https://user-images.githubusercontent.com/12345678/abc123.png)
-
+![cover](public/cover.png)
 
 ## Features
 
