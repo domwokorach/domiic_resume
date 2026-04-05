@@ -3,7 +3,7 @@
 The project aims to provide a live preview of resumes using a modern PDF viewer, allowing you to showcase your resume with a shareable link instead of dealing with cumbersome PDF files.
 
 ## Preview
-![cover](https://github.com/user-attachments/assets/f8c8b4df-ddfe-446d-8f07-a28bba19fc56)
+![cover](https://user-images.githubusercontent.com/12345678/abc123.png)
 
 
 ## Features
@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](./LICENSE.md).
 
 ## Contact
 
-For any inquiries or feedback, please reach out to [Dominic Olanya](mailto:dominicolanya@gmail.com).
+For any inquiries or feedback, please reach out to [Dominic](mailto:dominicolanya@gmail.com).
