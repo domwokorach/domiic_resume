@@ -16,6 +16,22 @@
   --shadow-uniform: 0px 0px 4.5px 0px rgba(120, 120, 120, 0.4);
 }
 
+.dark {
+  --bg: 0 0% 9%;
+  --bg-alt: 0 0% 11%;
+  --primary: 0 0% 16%;
+  --primary-hover: 0 0% 20%;
+  --primay-active: 0 0% 24%;
+  --border-disabled: 0 0% 22%;
+  --border: 0 0% 27%;
+  --border-active: 0 0% 35%;
+  --card: 0 0% 50%;
+  --card-hover: 0 0% 55%;
+  --fg-secondary: 0 0% 65%;
+  --fg: 0 0% 93%;
+  --shadow-uniform: 0px 0px 4.5px 0px rgba(0, 0, 0, 0.6);
+}
+
 body {
   @apply font-sans antialiased bg-bg text-fg;
 }
