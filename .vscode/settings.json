@@ -19,5 +19,6 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "biome.enabled": true,
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "folder-color.pathColors": []
 }
